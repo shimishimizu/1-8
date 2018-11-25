@@ -53,8 +53,8 @@ main{
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	color: white;
-	background-color: orange;
+	color: #fff;
+	background-color: #ff9a4b;
 	padding: 3px;
 }
 
